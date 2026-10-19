@@ -96,19 +96,21 @@ and sound is generated in code.
 
 <div align="center">
 
-![LeetCode](https://img.shields.io/badge/LeetCode-181_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-47_solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-30_solved-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)
+[![LeetCode](https://img.shields.io/badge/LeetCode-248_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Monira_Meem/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/monira4624)
+[![HackerRank](https://img.shields.io/badge/HackerRank-profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/monira4624)
 
-**250+ data-structure and algorithm problems solved in Java**
+<a href="https://leetcode.com/u/Monira_Meem/"><img src="https://leetcard.jacoblin.cool/Monira_Meem?theme=light&font=Fira%20Code" alt="LeetCode stats"/></a>
+
+**300+ data-structure and algorithm problems solved, mostly in Java**
 
 </div>
 
-| Repository | Highlights |
-|:--|:--|
-| 🧠 [LeetCode](https://github.com/Monira-Meem/LeetCode) | 181 problems organized by pattern — two pointers, sliding window, binary search, cyclic sort, stack, DP |
-| 🌿 [GeeksforGeeks](https://github.com/Monira-Meem/GeeksforGeeks) | 47 problems from School to Medium — Kadane's Algorithm, Trapping Rain Water, Majority Element |
-| 💚 [HackerRank](https://github.com/Monira-Meem/HackerRank) | 30 Problem Solving track solutions — strings, simulation, counting |
+| Platform | Solutions on GitHub | Highlights |
+|:--|:--|:--|
+| 🧠 [LeetCode](https://leetcode.com/u/Monira_Meem/) — 248 solved (199 Easy · 45 Medium · 4 Hard) | [181 in Java](https://github.com/Monira-Meem/LeetCode) | Organized by pattern — two pointers, sliding window, binary search, cyclic sort, stack, DP |
+| 🌿 [GeeksforGeeks](https://www.geeksforgeeks.org/profile/monira4624) | [47 in Java](https://github.com/Monira-Meem/GeeksforGeeks) | School to Medium — Kadane's Algorithm, Trapping Rain Water, Majority Element |
+| 💚 [HackerRank](https://www.hackerrank.com/profile/monira4624) | [30 in Java](https://github.com/Monira-Meem/HackerRank) | Problem Solving track — strings, simulation, counting |
 
 ## 🤝 Let's connect
 
