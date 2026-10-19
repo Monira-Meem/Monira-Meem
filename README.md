@@ -1,9 +1,3 @@
-<!-- ===========================================================
-     Profile README — lives in the repository  Monira-Meem/Monira-Meem
-     Before publishing: replace the two placeholders in "Let's connect"
-     and add links for "Coming to GitHub soon" projects once uploaded.
-     =========================================================== -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:4A90E2&height=180&section=header&text=Monira%20Meem&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20%C2%B7%20Android%20%C2%B7%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Monira Meem banner"/>
@@ -32,7 +26,7 @@ websites to AI systems that answer questions from real documents.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,py,ts&theme=light" alt="Languages"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=androidstudio,tensorflow,react,nextjs,tailwind,supabase&theme=light" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,tensorflow,react,nextjs,tailwind,supabase,sqlite&theme=light" alt="Frameworks"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,vercel,idea&theme=light" alt="Tools"/>
 </p>
@@ -40,9 +34,10 @@ websites to AI systems that answer questions from real documents.
 | Area | What I use |
 |:--|:--|
 | **Languages** | Java, Kotlin, Python, TypeScript |
-| **Android** | Jetpack Compose, MVVM, Clean Architecture, Room, Retrofit, Coroutines, Navigation, CameraX |
-| **AI / ML** | Retrieval-Augmented Generation (RAG), TensorFlow Lite, ML Kit |
+| **Android** | Jetpack Compose, Material 3, MVVM, Clean Architecture, Hilt, Room, DataStore, WorkManager, Retrofit, Coroutines & Flow, CameraX |
+| **AI / ML** | TensorFlow Lite (EfficientDet-Lite, SSD MobileNet), ML Kit, Retrieval-Augmented Generation (RAG) |
 | **Web** | Next.js, React, Tailwind CSS, Supabase, Vercel |
+| **Python** | Pygame, NumPy |
 | **Tools** | Git & GitHub, Android Studio, IntelliJ IDEA |
 
 ## 🚀 Featured projects
@@ -51,54 +46,53 @@ websites to AI systems that answer questions from real documents.
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 [My Movie App](https://github.com/Monira-Meem/MovieApp)
-Android app that browses popular movies from the TMDB API with infinite scroll and a detail screen.
+### 👁️ [VisionDetect AI](https://github.com/Monira-Meem/VisionDetectAI)
+Real-time **on-device object detection** with the phone camera. EfficientDet-Lite0 runs offline with an ML Kit
+fallback; detections are saved to a searchable history and visualised in an analytics dashboard.
 
-`Kotlin` `MVVM` `Retrofit` `Coroutines` `Navigation`
+`Kotlin` `TensorFlow Lite` `ML Kit` `CameraX` `Hilt` `Room`
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [LeetCode Solutions](https://github.com/Monira-Meem/LeetCode)
-180+ problems in Java, organized by pattern — two pointers, sliding window, binary search, cyclic sort, DP.
+### 📝 [NotesApp](https://github.com/Monira-Meem/NotesApp)
+A modern notes app with **checklists, photos, voice notes and reminders**, undo/redo, tags and auto-cleaning trash —
+built entirely with Jetpack Compose.
 
-`Java` `DSA` `Algorithms`
+`Kotlin` `Jetpack Compose` `Clean Architecture` `Hilt` `Room` `WorkManager`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌿 [GeeksforGeeks Solutions](https://github.com/Monira-Meem/GeeksforGeeks)
-45+ problems from School to Medium level, including Kadane's Algorithm and Trapping Rain Water.
+### 🎬 [My Movie App](https://github.com/Monira-Meem/MovieApp)
+Browses popular movies from the **TMDB API** with infinite scroll and a detail screen, using MVVM and the
+Repository pattern.
 
-`Java` `Arrays` `Problem Solving`
+`Kotlin` `MVVM` `Retrofit` `Coroutines` `Navigation`
 
 </td>
 <td width="50%" valign="top">
 
-### 💚 [HackerRank Solutions](https://github.com/Monira-Meem/HackerRank)
-30 Problem Solving track solutions focused on strings, simulation and counting.
+### 🚀 [Stellar Assault](https://github.com/Monira-Meem/Python)
+Arcade **space shooter** with three enemy classes, boss fights, 9 power-ups and a saved scoreboard — every sprite
+and sound is generated in code.
 
-`Java` `Strings` `Implementation`
+`Python` `Pygame` `NumPy` `OOP`
 
 </td>
 </tr>
 </table>
 
-### 🔜 Coming to GitHub soon
-
-<!-- When a project is uploaded, turn its name into a link: [VisionDetect AI](https://github.com/Monira-Meem/REPO-NAME) -->
+### 🌐 Also built
 
 | Project | What it is | Built with |
 |:--|:--|:--|
-| ⚖️ **Bilingual Compliance RAG Assistant** *(thesis, in progress)* | Answers questions on China's PIPL, E-Commerce Law and Consumer Rights Protection Law in Chinese and English, with source citations and a reliability score | Python, RAG, embeddings |
-| 👁️ **VisionDetect AI** | Real-time on-device object detection app using the phone camera | Kotlin, TensorFlow Lite, ML Kit, CameraX, MVVM |
-| 📝 **NotesApp** | Notes app with local persistence and a modern declarative UI | Kotlin, Jetpack Compose, Room, Clean Architecture |
-| 🛒 **Arabi Enterprise** *(client project)* | Full e-commerce website, designed, built and deployed for a client | Next.js 15, TypeScript, Supabase, Tailwind, Vercel |
-| 🚀 **Stellar Assault** | Arcade space-shooter game | Python, Pygame |
+| 🛒 **[Arabi Enterprise](https://alarabi.com.bd)** *(client project — live)* | E-commerce store for a Dhaka retailer: catalogue, cart, accounts and promo codes. Designed, built and deployed for the client | Next.js 15, TypeScript, Supabase, Tailwind CSS, Vercel |
+| ⚖️ **Bilingual Compliance RAG Assistant** *(thesis — in progress)* | Answers questions on China's PIPL, E-Commerce Law and Consumer Rights Protection Law in Chinese and English, with source citations and a reliability check | Python, RAG, embeddings |
 
-## 📊 Problem solving
+## 🧩 Problem solving
 
 <div align="center">
 
@@ -110,13 +104,18 @@ Android app that browses popular movies from the TMDB API with infinite scroll a
 
 </div>
 
+| Repository | Highlights |
+|:--|:--|
+| 🧠 [LeetCode](https://github.com/Monira-Meem/LeetCode) | 181 problems organized by pattern — two pointers, sliding window, binary search, cyclic sort, stack, DP |
+| 🌿 [GeeksforGeeks](https://github.com/Monira-Meem/GeeksforGeeks) | 47 problems from School to Medium — Kadane's Algorithm, Trapping Rain Water, Majority Element |
+| 💚 [HackerRank](https://github.com/Monira-Meem/HackerRank) | 30 Problem Solving track solutions — strings, simulation, counting |
+
 ## 🤝 Let's connect
 
 <div align="center">
 
-<!-- Replace YOUR-LINKEDIN-ID and YOUR-EMAIL before publishing -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monira-meem)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=monira4624%40gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monira4624@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Monira-Meem)
 
 *Open to internships, junior developer roles and Master's research opportunities in AI / Data Science.*
