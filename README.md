@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:4A90E2&height=180&section=header&text=Monira%20Meem&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20%C2%B7%20Android%20%C2%B7%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Monira Meem banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:4A90E2&height=180&section=header&text=Monira%20Meem&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20%C2%B7%20Android%20%C2%B7%20AI%20%26%20Data&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Monira Meem banner"/>
 
 <a href="https://github.com/Monira-Meem">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7F52FF&center=true&vCenter=true&width=640&lines=Final-year+CS+student+%40+Wuhan+Institute+of+Technology;Android+developer+%E2%80%94+Kotlin+%26+MVVM;Building+a+bilingual+RAG+assistant+for+my+thesis;Next+stop%3A+Master's+in+AI+%2F+Data+Science" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7F52FF&center=true&vCenter=true&width=640&lines=Final-year+CS+student+%40+Wuhan+Institute+of+Technology;Android+developer+%E2%80%94+Kotlin+%26+MVVM;Thesis%3A+a+bilingual+LLM+assistant+for+e-commerce+analytics;Next+stop%3A+Master's+in+AI+%2F+Data+Science" alt="Typing intro"/>
 </a>
 
 </div>
@@ -12,12 +12,13 @@
 
 I'm **Monira**, a final-year **B.Sc. Computer Science & Technology** student at **Wuhan Institute of Technology**, China
 (graduating **January 2027**). I enjoy turning ideas into working software — from Android apps and full-stack
-websites to AI systems that answer questions from real documents.
+websites to AI systems that turn plain-language questions into answers from real data.
 
-- 🔭 **Currently building:** my thesis — a **bilingual (Chinese–English) RAG assistant** that answers compliance questions
-  on Chinese e-commerce and data-privacy law, with an evidence-based reliability check on every answer
+- 🔭 **Currently building (in development):** my thesis — a **bilingual (English–Chinese) LLM assistant** that turns business questions
+  into SQL over a real e-commerce database, and an evaluation of how business definitions, SQL validation and
+  clarification questions make its answers more reliable
 - 📱 **Most experienced in:** Android development with Kotlin (MVVM, Clean Architecture, Jetpack)
-- 🧠 **Learning now:** retrieval-augmented generation, embeddings, and evaluating LLM answers
+- 🧠 **Learning now:** Text-to-SQL with LLMs, data analytics with SQL and DuckDB, and evaluating LLM answers
 - 🎯 **Next goal:** a **Master's degree in Artificial Intelligence / Data Science**
 - 🌍 **Languages:** Bengali · English · Chinese (HSK)
 
@@ -35,7 +36,8 @@ websites to AI systems that answer questions from real documents.
 |:--|:--|
 | **Languages** | Java, Kotlin, Python, TypeScript |
 | **Android** | Jetpack Compose, Material 3, MVVM, Clean Architecture, Hilt, Room, DataStore, WorkManager, Retrofit, Coroutines & Flow, CameraX |
-| **AI / ML** | TensorFlow Lite (EfficientDet-Lite, SSD MobileNet), ML Kit, Retrieval-Augmented Generation (RAG) |
+| **AI / ML** | TensorFlow Lite (EfficientDet-Lite, SSD MobileNet), ML Kit, LLM APIs, Text-to-SQL |
+| **Data** | SQL, DuckDB, pandas, Streamlit, Plotly |
 | **Web** | Next.js, React, Tailwind CSS, Supabase, Vercel |
 | **Python** | Pygame, NumPy |
 | **Tools** | Git & GitHub, Android Studio, IntelliJ IDEA |
@@ -90,7 +92,7 @@ and sound is generated in code.
 | Project | What it is | Built with |
 |:--|:--|:--|
 | 🛒 **[Arabi Enterprise](https://alarabi.com.bd)** *(client project — live)* | E-commerce store for a Dhaka retailer: catalogue, cart, accounts and promo codes. Designed, built and deployed for the client | Next.js 15, TypeScript, Supabase, Tailwind CSS, Vercel |
-| ⚖️ **Bilingual Compliance RAG Assistant** *(thesis — in progress)* | Answers questions on China's PIPL, E-Commerce Law and Consumer Rights Protection Law in Chinese and English, with source citations and a reliability check | Python, RAG, embeddings |
+| 📊 **Bilingual E-Commerce Analytics Assistant** *(thesis — in development · 🔒 private repo, code available on request)* | Ask business questions in English or Chinese and get answers from the Olist e-commerce database, with the SQL, a chart and the KPI definitions shown so every answer can be checked. The study compares four pipeline designs on an 80-question bilingual benchmark | Python, LLM API, DuckDB, SQLGlot, Streamlit, Plotly |
 
 ## 🧩 Problem solving
 
