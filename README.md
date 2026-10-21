@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:4A90E2&height=180&section=header&text=Monira%20Meem&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20%C2%B7%20Android%20%C2%B7%20AI%20%26%20Data&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Monira Meem banner"/>
+<img src="https://raw.githubusercontent.com/Monira-Meem/Monira-Meem/main/assets/banner.svg" width="100%" alt="Monira Meem — Computer Science · Android · AI &amp; Data"/>
 
 <a href="https://github.com/Monira-Meem">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7F52FF&center=true&vCenter=true&width=640&lines=Final-year+CS+student+%40+Wuhan+Institute+of+Technology;Android+developer+%E2%80%94+Kotlin+%26+MVVM;Thesis%3A+a+bilingual+LLM+assistant+for+e-commerce+analytics;Next+stop%3A+Master's+in+AI+%2F+Data+Science" alt="Typing intro"/>
@@ -126,4 +126,4 @@ and sound is generated in code.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:7F52FF&height=100&section=footer" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/Monira-Meem/Monira-Meem/main/assets/footer.svg" width="100%" alt=""/>
