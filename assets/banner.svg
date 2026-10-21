@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="Monira Meem — Computer Science · Android · AI &amp; Data">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7F52FF"/>
+      <stop offset="1" stop-color="#4A90E2"/>
+    </linearGradient>
+    <style>
+      .name { font: 700 64px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #ffffff; letter-spacing: 1px; }
+      .sub  { font: 500 24px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #ffffff; opacity: .92; letter-spacing: .5px; }
+      .fade { opacity: 0; animation: fade 1.2s ease-out .2s forwards; }
+      .fade2 { opacity: 0; animation: fade 1.2s ease-out .7s forwards; }
+      .w1 { animation: drift 9s ease-in-out infinite alternate; }
+      .w2 { animation: drift 12s ease-in-out infinite alternate-reverse; }
+      @keyframes fade { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+      @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-60px); } }
+      @media (prefers-reduced-motion: reduce) { .fade, .fade2 { animation: none; opacity: 1; } .w1, .w2 { animation: none; } }
+    </style>
+    <clipPath id="clip"><rect width="1200" height="240" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="240" fill="url(#bg)"/>
+    <circle cx="1080" cy="40" r="120" fill="#ffffff" opacity=".07"/>
+    <circle cx="140" cy="210" r="90" fill="#ffffff" opacity=".06"/>
+    <path class="w1" d="M0 190 C 150 160 300 220 450 195 S 750 160 900 190 S 1150 220 1300 185 L1300 240 L0 240 Z" fill="#ffffff" opacity=".12"/>
+    <path class="w2" d="M0 210 C 200 185 350 235 550 210 S 850 180 1050 212 S 1250 230 1300 205 L1300 240 L0 240 Z" fill="#ffffff" opacity=".10"/>
+    <text class="name fade" x="600" y="112" text-anchor="middle">Monira Meem</text>
+    <text class="sub fade2" x="600" y="158" text-anchor="middle">Computer Science  ·  Android  ·  AI &amp; Data</text>
+  </g>
+</svg>
